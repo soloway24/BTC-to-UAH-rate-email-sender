@@ -27,3 +27,5 @@ it would be essential to enable hot reload of the application using docker compo
 
 5. Graphical interface
 This application only provides the API and no GUI.
+
+6. This project was copied from the original private repository in order to avoid leaking personal info (SendGrid api key).
